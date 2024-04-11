@@ -32,5 +32,5 @@
   - Call the function
 
 ## Resources
-[The Python random module](https://www.geeksforgeeks.org/python-random-module/)
+[The Python random module](https://www.geeksforgeeks.org/python-random-module/)  
 [Data types in Python](https://www.geeksforgeeks.org/python-data-types/)
