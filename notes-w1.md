@@ -1,6 +1,6 @@
 # Notes and resources
 
-## Today's workshop step by step
+## First workshop step by step
 
 ### Variables
   - No variable keyword
