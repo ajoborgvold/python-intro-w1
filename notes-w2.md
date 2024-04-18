@@ -1,7 +1,8 @@
-# Notes and ressources
+# Part 2: Notes and ressources
 
-## Second workshop step by step
-### Datatypes
+## The technical stuff
+
+### Data types
   - Strings => "This is a string".
   - Lists => ["This", "is", "a", "list"].
   - Numbers (integers and floats) => 123 (int) or 123.45 (float).
